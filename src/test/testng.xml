@@ -1,0 +1,24 @@
+<?xlm version="1.0" encoding ="UTF-8"?>
+
+        <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test Maven Suite">
+
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://www.peopleworks.ind.in/"/>
+    <parameter name="username" value="jfs\26756"/>
+
+    <test name="Test Maven Testing">
+
+        <packages>
+            <package name="com.PWTestLogin"></package>
+        </packages>
+        <classes>
+            <!--<class name="SeleniumInDepth.PopUpAndAlerts"></class>-->
+            <class name="com.PWTestLogin.DemoTest1"></class>
+        </classes>
+
+    </test>
+
+
+</suite>
