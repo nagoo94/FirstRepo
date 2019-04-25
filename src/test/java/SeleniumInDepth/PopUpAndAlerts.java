@@ -53,7 +53,7 @@ public class PopUpAndAlerts {
         {
             System.out.println("Wrong Bro");
         }
-        Thread.sleep(5000);
+        Thread.sleep(2000);
         alert.accept();
 
     }
