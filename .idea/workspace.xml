@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a289c0e-10a3-4082-8637-5600e13a5832" name="Default Changelist" comment="" />
+    <list default="true" id="9a289c0e-10a3-4082-8637-5600e13a5832" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+            <state relative-caret-position="221">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -31,45 +35,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+            <state relative-caret-position="272">
+              <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/First/Selenium/with/maven/DemoTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/PWTestLogin/DemoTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/PWTestLogin/DemoTest2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-end-line="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3011#3012#0" expanded="true" />
-                <element signature="e#3040#3041#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumInDepth/ScreenShot.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -88,16 +75,21 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/First/Selenium/with/maven/LoginBro.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding>
                 <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng-results.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumInDepth/PopUpAndAlerts.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -112,12 +104,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumInDepth/FileUpload.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="391">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1071#1072#0" expanded="true" />
-                <element signature="e#1092#1093#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,12 +116,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumInDepth/FrameHandle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="442">
               <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1034#1035#0" expanded="true" />
-                <element signature="e#1055#1056#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -176,7 +164,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/PWTestLogin/DemoTest1.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/PWTestLogin/TitleTest.java" />
         <option value="$PROJECT_DIR$/src/main/resources/testng.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/PWTestLogin/DemoTest2.java" />
         <option value="$PROJECT_DIR$/src/test/java/SeleniumInDepth/FileUpload.java" />
         <option value="$PROJECT_DIR$/src/test/java/SeleniumInDepth/FrameHandle.java" />
@@ -184,6 +171,8 @@
         <option value="$PROJECT_DIR$/src/test/java/SeleniumInDepth/ScreenShot.java" />
         <option value="$PROJECT_DIR$/src/test/java/First/Selenium/with/maven/LoginBro.java" />
         <option value="$PROJECT_DIR$/src/test/java/SeleniumInDepth/PopUpAndAlerts.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
       </list>
     </option>
   </component>
@@ -251,6 +240,13 @@
               <item name="FSWM" type="b2602c69:ProjectViewProjectNode" />
               <item name="FSWM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FSWM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FSWM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -266,15 +262,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="maven" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FSWM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FSWM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SeleniumInDepth" type="462c0819:PsiDirectoryNode" />
+              <item name="PWTestLogin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -365,10 +353,10 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554977967353" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Naveen's Repo/PageObjectModel" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -394,7 +382,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.FrameHandle">
+  <component name="RunManager" selected="TestNG.DemoTest1">
     <configuration name="Clean Install" type="JUnit" factoryName="JUnit">
       <module name="FSWM" />
       <option name="PACKAGE_NAME" value="" />
@@ -416,7 +404,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoTest2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DemoTest1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="FSWM" />
       <extension name="coverage">
         <pattern>
@@ -424,8 +412,8 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="First.Selenium.with.maven" />
-      <option name="MAIN_CLASS_NAME" value="com.PWTestLogin.DemoTest2" />
+      <option name="PACKAGE_NAME" value="com.PWTestLogin" />
+      <option name="MAIN_CLASS_NAME" value="com.PWTestLogin.DemoTest1" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -486,11 +474,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DemoTest1" />
         <item itemvalue="TestNG.FrameHandle" />
         <item itemvalue="TestNG.FileUpload" />
         <item itemvalue="TestNG.PopUpAndAlerts" />
         <item itemvalue="TestNG.C:/Users/xd5729.PWR10/IdeaProjects/FSWM/src/test/testng.xml" />
-        <item itemvalue="TestNG.DemoTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -543,7 +531,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30862328" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30332828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -553,7 +541,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.32843137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -616,9 +604,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/texting.xml" />
-    <entry file="file://$PROJECT_DIR$/testng-results.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/First/Selenium/with/maven/DemoTest3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -640,7 +625,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/First/Selenium/with/maven/DemoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="170">
           <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -648,10 +633,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/PWTestLogin/DemoTest1.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/PWTestLogin/DemoTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="493">
+          <caret line="37" column="5" selection-start-line="37" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumInDepth/ScreenShot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumInDepth/FileUpload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -660,68 +662,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumInDepth/FrameHandle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="442">
           <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1034#1035#0" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumInDepth/FileUpload.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-            <element signature="e#1092#1093#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/PWTestLogin/DemoTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3011#3012#0" expanded="true" />
-            <element signature="e#3040#3041#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumInDepth/ScreenShot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/First/Selenium/with/maven/LoginBro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -730,6 +674,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/First/Selenium/with/maven/LoginBro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng-results.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/PWTestLogin/DemoTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -793,6 +782,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
